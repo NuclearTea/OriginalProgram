@@ -1,0 +1,7 @@
+{
+    "cortex-debug.armToolchainPath": "/usr/lib64/ccache",
+    "cortex-debug.openocdPath": "/usr/bin/openocd",
+    "files.associations": {
+        "core_cm7.h": "c"
+    }
+}
